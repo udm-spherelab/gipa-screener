@@ -44,7 +44,7 @@ removed.
 
 **WARNING**:
 Current checkpoints should be removed if we change the
-`in/abstracts.csv` file so that their is no mixe results!
+`in/abstracts.csv` file so that their is no mixed results!
 
 ## Project Structure
 

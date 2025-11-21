@@ -30,7 +30,7 @@ This will:
 - Load examples from `in/exemples.json`
 - Process abstracts from `in/abstracts.csv`
 - Save results to `out/evaluated_by_<model>-<timestamp>.csv`
-- Create checkpoints every 10 abstracts to `out/checkpoint.json`
+- Create checkpoints for each analyzed abstract to `out/checkpoint.json`
 
 ## Checkpoints
 

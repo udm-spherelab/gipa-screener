@@ -34,7 +34,7 @@ def analyze_abstract(
     """
     messages = generate_messages(abstract, examples)
     response = client.responses.parse(
-        model=model, input=messages, text_format=Output
+        model=model, input=messages, text_format=Output, temperature=0, seed=42
     )
     return response.output_parsed.model_dump()
 

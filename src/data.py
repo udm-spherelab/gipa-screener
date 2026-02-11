@@ -37,8 +37,11 @@ def load_examples(examples_file: Path) -> list:
             "abstract",
             "participatory_method",
             "participatory_method_rationale",
+            "participation_degree",
+            "participant_types",
             "green_infrastructure_intervention",
             "green_infrastructure_rationale",
+            "setting",
         ]
         for i, example in enumerate(examples):
             for field in required_fields:

@@ -5,7 +5,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Semi-structured interviews, focus groups, participatory mapping",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Greening intervention linked to the needs of traders"
+    "green_infrastructure_rationale": "Greening intervention linked to the needs of traders",
+    "participation_degree": "collaborate",
+    "participant_types": "residents, citizens, street vendors, informal traders",
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.ufug.2025.128711",
@@ -13,7 +16,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Document analysis approach",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Analysis of policy documents and stakeholder submissions"
+    "green_infrastructure_rationale": "Analysis of policy documents and stakeholder submissions",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.ecoser.2025.101715",
@@ -21,7 +27,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Serious game",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on educating children about the value of urban greening rather than developing an urban greening intervention itself."
+    "green_infrastructure_rationale": "Focus on educating children about the value of urban greening rather than developing an urban greening intervention itself.",
+    "participation_degree": "involve",
+    "participant_types": "children aged 10-14, residents, citizens, local communities",
+    "setting": "urban"
   },
   {
     "doi": "10.3390/su17073175",
@@ -29,7 +38,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Citizen-science-driven data collection",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Development of urban greening interventions (TALEA Green Cells)"
+    "green_infrastructure_rationale": "Development of urban greening interventions (TALEA Green Cells)",
+    "participation_degree": "collaborate",
+    "participant_types": "residents, citizens, local communities",
+    "setting": "urban"
   },
   {
     "doi": "10.37838/unicen/est.35-2-201",
@@ -37,7 +49,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Community-based approach to the protection of urban green spaces",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Intervention that focus on the preservation and protection of existing urban green spaces"
+    "green_infrastructure_rationale": "Intervention that focus on the preservation and protection of existing urban green spaces",
+    "participation_degree": "consult",
+    "participant_types": "residents, citizens, local communities",
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.ufug.2025.128775",
@@ -45,7 +60,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Survey to understand public perceptions of existing GI interventions. The survey is not a participatory method in a strict sens, yet we choose to include it as it includes citizen in an active sens in the evaluation phase of the intervention.",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Focus on understanding public perceptions of existing GI interventions on streets. So on the axe development/implementation/evaluation, it is more on the evaluation side."
+    "green_infrastructure_rationale": "Focus on understanding public perceptions of existing GI interventions on streets. So on the axe development/implementation/evaluation, it is more on the evaluation side.",
+    "participation_degree": "consult",
+    "participant_types": "residents, citizens, communities",
+    "setting": "urban"
   },
   {
     "doi": "10.1002/pan3.70013",
@@ -53,7 +71,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Study / examine educational and engagement programs",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on educational and engagement programs rather than the development of urban greening interventions"
+    "green_infrastructure_rationale": "Focus on educational and engagement programs rather than the development of urban greening interventions",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.tfp.2024.100754",
@@ -61,7 +82,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Quantitative survey approach",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on national tree-planting programs rather than urban greening interventions"
+    "green_infrastructure_rationale": "Focus on national tree-planting programs rather than urban greening interventions",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1007/s10668-025-06213-4",
@@ -69,7 +93,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Quantitative survey approach",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on public perceptions of NbS (nature base solution) rather than the development of interventions"
+    "green_infrastructure_rationale": "Focus on public perceptions of NbS (nature base solution) rather than the development of interventions",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.3390/su17094028",
@@ -77,7 +104,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Social network analysis",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on urban forestry governance rather than the development of urban greening interventions"
+    "green_infrastructure_rationale": "Focus on urban forestry governance rather than the development of urban greening interventions",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.3390/bs15030313",
@@ -85,15 +115,21 @@
     "participatory_method": false,
     "participatory_method_rationale": "Self-reported data from college students",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Study the impact of existing green spaces on mental health rather than the development of urban greening interventions"
+    "green_infrastructure_rationale": "Study the impact of existing green spaces on mental health rather than the development of urban greening interventions",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1002/pan3.70022",
     "abstract": "1. Historically, tree planting was primarily implemented to achieve economic functions; more recently, environmental and social goals have also been emphasised. This is due to the realisation that schemes operate in a socioecological system; hence, understanding and fulfilling local social (community) interests are imperative. 2. We conducted 13 focus group discussions and 40 interviews with communities at 13 Ethiopian tree-planting scheme sites to evaluate their perceptions of the landscape challenges, scheme governance processes and to identify areas for improvement. We analysed the survey responses qualitatively and scored the level of community satisfaction with the governance of each scheme. 3. The results indicated that the communities understood and felt the impact of the landscape challenges while being optimistic about tree-planting schemes' potential to avert these issues. However, the communities differed markedly in their satisfaction with the scheme's governance, indicating that the degree to which schemes met their goals was related to the community's satisfactory engagement. Most respondents discussed issues about proper community consultation, engagement, institutionalisation and capacity building, starting from the input phase to the scheme governance process. 4. We concluded that communities' perceptions are valuable at all scheme phases and should be employed to improve a scheme's governance, outputs and impacts. We hope the results will help to encourage local communities' participation in steering and refining the governance of inclusive and appealing tree-planting schemes with sustainable ecological and socioeconomic outcomes. Read the free Plain Language Summary for this article on the Journal blog.",
     "participatory_method": true,
     "participatory_method_rationale": "Focus group discussions and interviews with local communities",
-    "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on rural or semi-rural areas rather than urban areas"
+    "green_infrastructure_intervention": true,
+    "green_infrastructure_rationale": "Focus on rural or semi-rural areas rather than urban areas",
+    "participation_degree": "collaborate",
+    "participant_types": "local communities",
+    "setting": "null"
   },
   {
     "doi": "10.1016/j.cacint.2025.100188",
@@ -101,7 +137,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Co-design process involving students, teachers, and the local community",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Development of a green and blue infrastructure (GBI) NbS (nature base solution) in an educational environment"
+    "green_infrastructure_rationale": "Development of a green and blue infrastructure (GBI) NbS (nature base solution) in an educational environment",
+    "participation_degree": "collaborate",
+    "participant_types": "children, students, stakeholders, local communities",
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.landusepol.2025.107603",
@@ -109,7 +148,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Participatory management framework involving active citizen engagement",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Preservation of ancient olive groves as a form of green infrastructure in urban and periurban contexts"
+    "green_infrastructure_rationale": "Preservation of ancient olive groves as a form of green infrastructure in urban and periurban contexts",
+    "participation_degree": "consult",
+    "participant_types": "residents, citizens, stakeholders",
+    "setting": "urban"
   },
   {
     "doi": "10.1080/17450101.2024.2426554",
@@ -117,25 +159,34 @@
     "participatory_method": true,
     "participatory_method_rationale": "Focus groups with structurally disadvantaged people in transport planning",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on participatory transport planning"
+    "green_infrastructure_rationale": "Focus on participatory transport planning",
+    "participation_degree": "collaborate",
+    "participant_types": "residents, citizens",
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.ufug.2025.128731",
     "abstract": "An unequal distribution of green areas across cities coupled with the vulnerability towards climate change and global warming is causing segregation between residents who profit from nature-based solutions'(NbS) health and wellbeing benefits and those who do not. Residential segregation in urban settings goes far beyond income and socio-economic factors and is also evident in questions of environmental justice, participation and power - including how and where NbS are implemented. Delving into Greek cities, this paper raises the question of whether and how engagement with urban NbS differs within cities and among their residents. By applying a survey with an integrated discrete choice experiment (N = 1002) we were able to analyze the relevance of the type of green area, the effectiveness in temperature and microdust reduction, biodiversity enhancement, time and financial payments and the importance of participatory planning processes. The latent class analysis showed that urban segregation is recognizable within the sample. By investigating the differences in ability and willingness to support urban NbS, this paper recommends how green infrastructure can be implemented in a manner which enforces a more just distribution for those who need it most.",
-    "participatory_method": null,
-    "participatory_method_rationale": "Survey with an integrated discrete choice experiment. Unclear if the survey is participatory or not.",
+    "participatory_method": false,
+    "participatory_method_rationale": " This is an analytical survey on preferences for various NbS attributes, the survey is not participatory.",
     "green_infrastructure_intervention": true,
     "green_infrastructure_rationale": "Urban NbS (nature base solution) interventions",
     "validation": false,
-    "notes": ""
+    "notes": "",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.landurbplan.2025.105339",
     "abstract": "Greenness and noise are important environmental determinants of human health. The rapid urbanization and population growth have intensified the densification of urban environments, escalating traffic noise and the depletion of green spaces. Our study aims to explore the role of greenness as a facilitator and noise exposure as an impediment to psychological restoration in people's daily environments, examining the interplay between environmental factors, individual perceptions, and personal traits. We employ a conceptual model where the effects of road traffic noise and greenness on restoration are mediated by perceived landscape factors and moderated by personal traits. We collected data through an online participatory survey of about 1500 Swiss respondents. Respondents were asked to indicate the level of resto- ration they obtained from looking out of their window at home and from their last restorative outdoor activity. Our analysis combines biophysical and acoustical georeferenced data with perceived survey data and uses multiple mediation analysis technics, i.e., structural equation modelling. Results indicate that greenness and traffic noise exposure are only marginally linked to psychological resto- ration outcomes. However, they are strongly associated with perceived landscape aspects, such as the feeling of being in nature and noise annoyance, which in turn are linked to these outcomes. Personal traits, including connectedness with nature and stress levels, also play a critical role in shaping restoration outcomes. Our study highlights the complex dynamics between environmental factors, personal perceptions, and restoration outcomes, emphasizing the pivotal role of perceived feeling of being in nature and personal traits in psychological restoration.",
     "participatory_method": false,
-    "participatory_method_rationale": "Online survey",
+    "participatory_method_rationale": "A survey was conducted among respondents to assess the effect of nature (greening) on ​​noise. However, the surveys were used for quantitative analyses and did not contribute to the planning, implementation, or evaluation of a greening project.",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on the role of existing greenness and noise exposure"
+    "green_infrastructure_rationale": "Focus on the role of existing greenness and noise exposure",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.cacint.2025.100195",
@@ -143,7 +194,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Participatory mapping workshops with residents and multi-sectoral stakeholder workshops",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Nature-based Solutions (NbS) in slum communities"
+    "green_infrastructure_rationale": "Nature-based Solutions (NbS) in slum communities",
+    "participation_degree": "collaborate",
+    "participant_types": "children, students, residents, citizens, stakeholders, local communities, street vendors, informal traders",
+    "setting": "urban"
   },
   {
     "doi": "10.1093/jbmrpl/ziaf024",
@@ -151,7 +205,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "No participatory method, focus on self-reported data",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Neighborhood factors related to hip fracture"
+    "green_infrastructure_rationale": "Neighborhood factors related to hip fracture",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.landusepol.2025.107502",
@@ -159,7 +216,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Scoping review",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on barriers to urban nature base solution (NbS) implementation"
+    "green_infrastructure_rationale": "Focus on barriers to urban nature base solution (NbS) implementation",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1057/s41599-025-04950-5",
@@ -167,7 +227,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Economic data analysis",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on economic openness and green total factor productivity"
+    "green_infrastructure_rationale": "Focus on economic openness and green total factor productivity",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1080/1523908X.2024.2422842",
@@ -175,7 +238,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "In-depth qualitative analysis of participatory processes",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Pedestrianisation scheme"
+    "green_infrastructure_rationale": "Pedestrianisation scheme",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.landurbplan.2025.105298",
@@ -183,7 +249,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Mixed methodology combining statistical and cartographic analysis with qualitative assessment. Is not a participatory process related to the development/implementation/evaluation of a greening intervention",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Participatory greening initiatives through community gardens and greening licenses"
+    "green_infrastructure_rationale": "Participatory greening initiatives through community gardens and greening licenses",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1007/s40520-025-03052-1",
@@ -191,7 +260,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Literature review",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on urbanization and health inequities"
+    "green_infrastructure_rationale": "Focus on urbanization and health inequities",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.forpol.2025.103452",
@@ -199,7 +271,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Participatory future farm scenarios",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on tree-cover restoration in rural agricultural landscapes"
+    "green_infrastructure_rationale": "Focus on tree-cover restoration in rural agricultural landscapes",
+    "participation_degree": "consult",
+    "participant_types": "community members",
+    "setting": "rural"
   },
   {
     "doi": "10.1016/j.iref.2025.104047",
@@ -207,7 +282,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Global data analysis",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Climate change and sustainable development"
+    "green_infrastructure_rationale": "Climate change and sustainable development",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1007/s10668-024-04459-y",
@@ -215,7 +293,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Discussion, online polls, and questionnaires with farmers to gather perspectives on sustainable farming",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on agroecological interventions in farming"
+    "green_infrastructure_rationale": "Focus on agroecological interventions in farming",
+    "participation_degree": "consult",
+    "participant_types": "stakeholders, communities",
+    "setting": "urban"
   },
   {
     "doi": "10.2166/bgs.2025.039",
@@ -223,7 +304,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Online workshop using the Infrastructure transition canvas and semi-structured interviews with experts",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on governance of blue-green infrastructure (BGI) projects rather than their operational development. It seeks to understand how to improve coordination among stakeholders to facilitate these projects"
+    "green_infrastructure_rationale": "Focus on governance of blue-green infrastructure (BGI) projects rather than their operational development. It seeks to understand how to improve coordination among stakeholders to facilitate these projects",
+    "participation_degree": "collaborate",
+    "participant_types": "stakeholders",
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.jenvp.2025.102565",
@@ -231,7 +315,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Children explored a UGI route using either a GPS-based application, or a guide and a map",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on children's interaction with existing urban green infrastructure (UGI) rather than its development"
+    "green_infrastructure_rationale": "Focus on children's interaction with existing urban green infrastructure (UGI) rather than its development",
+    "participation_degree": "consult",
+    "participant_types": "children aged 8-12",
+    "setting": "urban"
   },
   {
     "doi": "10.1080/23748834.2024.2442796",
@@ -239,7 +326,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Litterature review",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Systematic literature review to develop an evaluation framework for urban green spaces. It focuses on evaluating and improving urban green spaces for health, which is part of the development process"
+    "green_infrastructure_rationale": "Systematic literature review to develop an evaluation framework for urban green spaces. It focuses on evaluating and improving urban green spaces for health, which is part of the development process",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1080/26395916.2025.2454252",
@@ -247,7 +337,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Online map-based survey (public participation GIS - PPGIS)",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on existing urban public green spaces rather than their development"
+    "green_infrastructure_rationale": "Focus on existing urban public green spaces rather than their development",
+    "participation_degree": "consult",
+    "participant_types": "residents, citizens",
+    "setting": "urban"
   },
   {
     "doi": "10.3389/fpsyg.2025.1560467",
@@ -255,7 +348,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "No participatory method. Bibliometric analysis",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Bibliometric analysis of existing research on the relationship between urban green/blue spaces and children's health. It is a meta-analysis of scientific literature rather than a study developing interventions."
+    "green_infrastructure_rationale": "Bibliometric analysis of existing research on the relationship between urban green/blue spaces and children's health. It is a meta-analysis of scientific literature rather than a study developing interventions.",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1007/s11252-024-01656-5",
@@ -263,7 +359,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Analysis of existing urban greening plans",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Focus on governance of urban greening plans rather than their operational development"
+    "green_infrastructure_rationale": "Focus on governance of urban greening plans rather than their operational development",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1007/s13280-024-02094-5",
@@ -271,15 +370,21 @@
     "participatory_method": true,
     "participatory_method_rationale": "Interviews with foragers and land managers, iterative discussions, and multi-stakeholder analysis",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Focus on urban foraging rather than urban greening interventions"
+    "green_infrastructure_rationale": "Focus on urban foraging rather than urban greening interventions",
+    "participation_degree": "collaborate",
+    "participant_types": "stakeholders, local communities",
+    "setting": "urban"
   },
   {
     "doi": "10.1007/s11269-025-04125-6",
     "abstract": "Green Infrastructure (GI) is gaining attention in urban flood management for its ability to reduce peak flow and volume while providing multiple urban and environmental benefits. Climate change and urbanization intensify GI development needs but also amplify design, management, and performance challenges for local governments and stakeholders. Understanding the complex challenges of implementing GI is essential for advancing sustainable urban water management in line with the Sustainable Development Goals (SDGs), particularly SDG 6 (Clean Water and Sanitation), SDG 11 (Sustainable Cities and Communities), and SDG 13 (Climate Action). Previous studies have often focused on specific components of GI systems, but this research provides the first comprehensive work covering it from pre-design to post-installation-of GI implementation in metropolitan Melbourne. Through a targeted survey of local councils and water consultancies, our study bridges the gap between theoretical design and practical application. By incorporating practitioners' real-world experiences alongside technical modelling challenges, we reveal how factors like limited real-time data and regional parameterization can affect GI performance. Our approach uniquely examines interlinked obstacles, from financial constraints to maintenance protocols, giving decision-makers valuable insights to enhance GI project outcomes. This research addresses critical knowledge gaps, such as the need for community engagement and tailored technical expertise, providing actionable solutions for improving GI planning, implementation, and sustainability. Our findings offer a practical framework for future GI initiatives, helping practitioners pre-emptively tackle challenges, optimize resource use, and establish a resilient urban infrastructure that supports clean water access, sustainable urban growth, and climate adaptation.",
-    "participatory_method": false,
+    "participatory_method": true,
     "participatory_method_rationale": "Survey of local councils and water consultancies",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Focus on challenges of GI implementation rather than specific urban greening interventions"
+    "green_infrastructure_rationale": "Focus on challenges of GI implementation rather than specific urban greening interventions",
+    "participation_degree": "consult",
+    "participant_types": "stakeholders, local communities",
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.cacint.2025.100205",
@@ -287,7 +392,10 @@
     "participatory_method": true,
     "participatory_method_rationale": "Q methodology and qualitative methods to investigate perceptions of individuals participating in community composting. Q methodology is a participatory method as it actively involves participants in identifying and prioritizing their perspectives",
     "green_infrastructure_intervention": false,
-    "green_infrastructure_rationale": "Urban soil stewardship and community composting"
+    "green_infrastructure_rationale": "Urban soil stewardship and community composting",
+    "participation_degree": "consult",
+    "participant_types": "stakeholders, communities",
+    "setting": "urban"
   },
   {
     "doi": "10.1007/s43621-025-01093-0",
@@ -295,7 +403,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "GIS modelling and optimization algorithms",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Green space evaluation and site selection optimization in urban renewal planning"
+    "green_infrastructure_rationale": "Green space evaluation and site selection optimization in urban renewal planning",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.3390/land14040836",
@@ -303,7 +414,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "GIS and AHP for suitability assessment",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Sponge city construction and blue-green infrastructure development, including vegetation, wetlands, retention basins, and multifunctional green spaces"
+    "green_infrastructure_rationale": "Sponge city construction and blue-green infrastructure development, including vegetation, wetlands, retention basins, and multifunctional green spaces",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.1016/j.ufug.2025.128692",
@@ -311,7 +425,10 @@
     "participatory_method": false,
     "participatory_method_rationale": "Document analysis, retrospective observations, quantitative surveys among students",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Explores the (re)greening transition of a university campus. It focuses on changes in landscaping practices, implementation of nature-based solutions, and reduction of impermeable surfaces, which are all aspects of green infrastructure development"
+    "green_infrastructure_rationale": "Explores the (re)greening transition of a university campus. It focuses on changes in landscaping practices, implementation of nature-based solutions, and reduction of impermeable surfaces, which are all aspects of green infrastructure development",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   },
   {
     "doi": "10.3390/su17072875",
@@ -319,6 +436,9 @@
     "participatory_method": false,
     "participatory_method_rationale": "Questionnaire surveys to assess participants' mental health and field measurements of temperature and heat island effect",
     "green_infrastructure_intervention": true,
-    "green_infrastructure_rationale": "Urban Food Forest Program as an urban greening intervention because it evaluates the impact of a specific green intervention (urban food forest) on the environment and mental health"
+    "green_infrastructure_rationale": "Urban Food Forest Program as an urban greening intervention because it evaluates the impact of a specific green intervention (urban food forest) on the environment and mental health",
+    "participation_degree": null,
+    "participant_types": null,
+    "setting": "urban"
   }
 ]

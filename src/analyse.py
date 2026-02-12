@@ -12,7 +12,7 @@ class Output(BaseModel):
     participatory_method: bool | None
     participatory_method_rationale: str
     participation_degree: str | None
-    participant_types: str | None 
+    participant_types: str | None
     green_infrastructure_intervention: bool | None
     green_infrastructure_rationale: str
     setting: str | None
@@ -51,7 +51,7 @@ def compute_rating(result: dict[str, any]) -> int:
     Compute rating based on analysis results.
 
     Args:
-         result: Dictionary with participatory_method, green_infrastructure_intervention, 
+         result: Dictionary with participatory_method, green_infrastructure_intervention,
                 setting
 
     Returns:
@@ -62,18 +62,17 @@ def compute_rating(result: dict[str, any]) -> int:
     """
     pm = result["participatory_method"]
     gi = result["green_infrastructure_intervention"]
-    setting = result.get("setting")
-    
+
     # Case 1: At least one unclear criterion -> Rating 2
     if pm is None or gi is None:
         return 2
-    
+
     # Case 2: Review document -> Rating 1
         return 1
-    
+
     # Case 3: All criteria clearly true -> Rating 3
     if pm and gi:
         return 3
-    
+
     # Case 4: Rural or at least one criterion false -> Rating 1
     return 1

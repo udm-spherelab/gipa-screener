@@ -9,3 +9,8 @@ dependencies = [
     "polars>=0.20.0",
     "pydantic>=2.0.0",
 ]
+
+[dependency-groups]
+dev = [
+    "ipython>=9.10.0",
+]

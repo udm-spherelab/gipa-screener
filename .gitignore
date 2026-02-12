@@ -5,3 +5,5 @@ CLAUDE.md
 uv.lock
 tmp/
 analysis.log
+out/*
+*.swp

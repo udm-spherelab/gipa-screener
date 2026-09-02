@@ -1,0 +1,162 @@
+[
+  {
+    "article_ref": "Thorsson 2025",
+    "passages": "H_succ: not reported\n\nH_barr: not reported\n\nimpact_participation: not reported\n\nconflict: not reported\n\nadverse_effects: not reported",
+    "H_succ": "NR",
+    "H_barr": "NR",
+    "impact_participation": "NR",
+    "conflict": "NR",
+    "adverse_effects": "NR",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Yamaki 2016",
+    "passages": "H_succ: Formal and close ties enabled collaboration: \"the NFRP organizations obtained formal and close ties with the National Forest through the forest regeneration project, thus generating social capital\" and this \"enhanced the collaboration with the National Forest\" (p. 219). The authors also state that \"collaborative networks of working together promote social learning, build trust, and foster social capital\" (p. 220).\n\nH_barr: Barriers included weak ties among citizen organizations, exclusion of non-NFRP organizations from formal two-way relationships, a government-centred network, dual management complexity, and organizational sustainability issues. The article reports \"weak social networks within the NFRP organizations as well as with the non-NFRP organizations\" (p. 218), \"neither a formal relationship nor daily communication\" for non-NFRP organizations (p. 214), and issues such as \"Aging of members\" and \"Decrease in members and few newcomers\" (p. 217).\n\nimpact_participation: The participatory approach enhanced collaboration and social learning for participating organizations but excluded or weakly connected other interested groups: it \"enhanced collaboration between the National Forest Agency and several citizen organizations and social learning\" but was \"less successful in encouraging a democratic process involving all interested citizen organizations\" (p. 212).\n\nconflict: yes: Conflict/contestation involved citizen organizations, government agencies, and different forest users or conservation advocates. The article reports \"conflicts among diverse needs regarding the forests\" (p. 212) and notes that some citizen organizations opposed management actions \"such as the removal of dangerous natural trees and thinning of artificial forest\" (p. 218).\n\nadverse_effects: not reported",
+    "H_succ": "SUC2",
+    "H_barr": "BAR1, BAR4, BAR8",
+    "impact_participation": "IMP1, IMP5",
+    "conflict": "CON1, CON4",
+    "adverse_effects": "NR",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Abrantes 2026",
+    "passages": "H_succ: Identified success factors include strong relational governance, trust, social capital, cooperation, secure land tenure, formalisation, municipal/institutional support, stable funding, multilevel policy integration and citizen co-decision-making. The authors state that \"secure land tenure, formalisation, and institutional support, are crucial for long-term stability and potential scaling\" (p. 1), and that \"stakeholder diversity,\" \"social capital and collective action,\" and \"trust and cooperation\" had the highest average scores (p. 10).\n\nH_barr: Barriers included weak vertical policy integration, insecure land tenure, unstable funding, reliance on volunteers/donations, limited municipal support in some cases, bureaucratisation, tokenistic consultation, power asymmetries, limited community autonomy and uneven participation. The abstract reports that \"weak vertical policy integration across local, national, and European levels in most cases limits their broader systemic impact\" (p. 1).\n\nimpact_participation: Participation was reported to support inclusion, empowerment and long-term viability when governance was relational and procedural: \"CGs with stronger relational and procedural governance demonstrate higher levels of inclusion, particularly for women, migrants, and low-income residents\" (p. 1). The authors conclude that outcomes are best supported by \"institutional support, citizen co-decision-making, and coherent multilevel policy articulation\" (p. 1).\n\nconflict: yes: The study reports tensions between garden users and managing institutions, especially in hybrid or municipal-led cases. In PAAL, participants expressed frustration with AVAAL because they \"never received invitations\" to meetings, while in Kadifekale some women noted that the municipality provided land but still decided how it could be used, reflecting conflict over decision power and autonomy.\n\nadverse_effects: The study does not report direct displacement or material harm to incumbent residents, but it reports governance-related adverse effects and risks: municipal-led models can limit community autonomy, hybrid NGO-led models can create power asymmetries, and weak institutional support can make grassroots gardens precarious. For Kadifekale, a participant said: \"The municipality gives us land, but they still decide how we can use it\" (p. 7).",
+    "H_succ": "SUC1a, SUC1b, SUC1c, SUC2",
+    "H_barr": "BAR1, BAR3, BAR2a, BAR2b",
+    "impact_participation": "IMP2, IMP1",
+    "conflict": "CON1",
+    "adverse_effects": "ADV3",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Bauer 2025",
+    "passages": "H_succ: Success/enabling factors include using existing greenspaces as “low hanging fruits” (p. 8), embedding LECI in the Garden City/urban development narrative, presidential endorsement, a “diverse steering committee” (p. 6), building on UNA-rivers groundwork, flexible “umbrella” planning (p. 8), and pragmatic matching of NbS goals to donor priorities.\n\nH_barr: Eight barriers are identified: “Poverty and economic pressures,” “Insufficient (public) resources,” “Competition over urban space,” “Insufficient policy implementation,” “Limited collaborative governance,” “Knowledge, data and awareness challenges,” “Climatic / weather conditions,” and “Citizen engagement challenges” (pp. 4–6).\n\nimpact_participation: The article reports limited implementation impact of citizen participation: “The initiative also features some attempts to actively include citizens and create a sense of ownership. On the ground, however, activities are still concentrated on existing greenspaces and spaces managed by the LCC in which civic participation is limited” (p. 9).\n\nconflict: yes: Conservation and city-planning actors are in tension with residents and livelihood users of riverine or environmentally sensitive land, including markets, informal buildings, farming, sand mining and other uses. The conflict concerns clearing, regulating or protecting corridor areas for restoration and by-laws, because these areas are also used for housing, income and everyday livelihoods; the article warns that by-laws could “disrupt urban livelihoods, especially of low-income groups” (p. 8).\n\nadverse_effects: Potential adverse effects include displacement, exclusion, “green grabbing,” marginalisation, and illegalisation of livelihood-supporting practices. The article warns that “a socially insensitive implementation of the LECI could lead to future marginalisation” (p. 8) and that formalisation could “‘sweep the poor away’, ‘green grabbing’, or remain unenforced” (p. 8).",
+    "H_succ": "SUC7, SUC4, SUC1a, SUC1b",
+    "H_barr": "BAR2a, BAR1, BAR7",
+    "impact_participation": "IMP5",
+    "conflict": "CON3",
+    "adverse_effects": "ADV1",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Swift 224",
+    "passages": "H_succ: Success factors included collaborative design, participant choice, strengths-based recognition of people with dementia, and iterative feedback. The authors state that initiatives \"must be collaboratively designed, following an approach which recognises the strengths and enduring abilities of people living with dementia\" and that \"Every activity conducted during the project was selected by the gardeners.\"\n\nH_barr: Barriers included recruitment challenges, small sample size, short duration, seasonality, limited day-centre attendance, and the wider risk that gardening could be used to individualise responsibility or substitute for statutory care. The authors state: \"the study was limited by a small sample size and short duration\"; \"due to recruitment challenges and the seasonal nature of the study, the size and duration of the study were ultimately restricted\"; and such activities risk \"becoming misused as a smokescreen for reductions in social service provision.\"\n\nimpact_participation: The article reports that participatory design enabled autonomy, resistance, and ownership: \"The participatory design of the gardening sessions enabled the gardeners to assert their autonomy and independence, and defy the negative stereotypes associated with dementia\"; \"Designing the gardening initiative collaboratively appeared to present opportunities that were missing in the everyday lives of many of the gardeners, offering the freedom to make autonomous choices, exercise their agency, and adopt an active, collaborative role in the development of the project.\"\n\nconflict: no\n\nadverse_effects: No observed adverse effects on participants are reported, but the authors warn of potential adverse effects if community gardening is positioned as a substitute for care: \"the empowering impact of community gardening should not be diluted by positioning the activity as a substitute for adequate statutory health and social care provision\" and such activities risk \"individualising responsibility for the wellbeing of people with dementia.\"",
+    "H_succ": "SUC3, SUC6",
+    "H_barr": "BAR2b",
+    "impact_participation": "IMP2",
+    "conflict": "CON0",
+    "adverse_effects": "ADV3",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Antaki 2021",
+    "passages": "H_succ: Success factors included continuity, facilitation, child choice, local craft/making, and a balance of structure and freedom. The author states that children can design responses \"if given an appropriate balance of structure and freedom with the help of facilitators\" (p. 111), and that \"continuity\" is important for learning and growth (p. 109).\n\nH_barr: Barriers included initially low child control over themes and insufficient facilitation capacity. The author notes that \"low levels of thematic control by the children\" were problematic (p. 109), that initial themes created a \"one-way teacher–student relationship\" (p. 105), and that sessions needed \"continuous team facilitation\" (p. 106).\n\nimpact_participation: Participation impacts were reported mainly as learning and citizenship outcomes. The children identified increased \"confidence\", \"communication skills\", \"teamwork\", \"cooperate with people\", \"creativity\", \"organization skills\", \"respect of the environment\" and \"work with society\" (pp. 114–15).\n\nconflict: no\n\nadverse_effects: not reported",
+    "H_succ": "SUC3, SUC4",
+    "H_barr": "BAR5",
+    "impact_participation": "IMP6",
+    "conflict": "CON0",
+    "adverse_effects": "NR",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Nordin 2022",
+    "passages": "H_succ: Collaborative production and elder-friendly infrastructure were identified as important. The study concludes that \"for the garden to be efficient, it has to be equipped with the necessary infrastructure such as stools as resting place and easy-to-reach water supply\" (p. 404), and recommends gardens be \"near to water sources, plenty of seating as elderly get tired easily and plenty of shades\" with \"suitable pavements and flat surfaces\" (p. 412).\n\nH_barr: Low active use and accessibility constraints were reported: \"only 37% respondents actively gardening at Laman Herba & Sayuran\" (p. 409). Barriers included preference for gardening outside units due to water availability, difficulty carrying buckets of water, \"age and physical limitations,\" and \"The exposed drains and the absent of proper walkway\" (p. 409).\n\nimpact_participation: Participation shaped the intervention: \"During the Focus Group Discussion, several proposals were put forward by the residents\" and \"One of the proposals by the FGD participants were to have a community garden\" (p. 404). The garden was then \"created by the researchers and the residents through gotong royong activities\" (p. 404).\n\nconflict: no\n\nadverse_effects: not reported; access and safety barriers were noted, including \"exposed drains and the absent of proper walkway\" (p. 409).",
+    "H_succ": "SUC7, SUC3",
+    "H_barr": "BAR4, BAR2b",
+    "impact_participation": "IMP3",
+    "conflict": "CON0",
+    "adverse_effects": "NR",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Schanbacher 2023",
+    "passages": "H_succ: Identified enabling factors included emergency protocols, sanitary practices, education, communication, and collaboration. Respondents suggested gardens \"establish clear emergency protocols, use existing resources more efficiently, continue their educational programs, and strengthen their communications and cooperation with other gardens and actors in local food supply chains\" (p. 01).\n\nH_barr: Barriers included COVID-19 closures, limits on access, reduced volunteers, insufficient production relative to need, and resource constraints. The article states that gardens affiliated with schools or government \"were forced to close\" (p. 05), six leaders cited \"the decline or loss of volunteers\" (p. 05), and one leader said \"demand soon outstripped production\" (p. 05).\n\nimpact_participation: The article reports perceived benefits from garden participation during COVID-19: some leaders said garden use increased because it \"gave people an outdoor outlet\" (p. 04), and another said the garden \"was a refuge during a very difficult and stressful time\" (p. 04). Participation also supported food-distribution responses: leaders \"found innovative ways to distribute food, connect with others, and return to work/neighborhood activities\" (p. 06).\n\nconflict: no\n\nadverse_effects: not reported",
+    "H_succ": "SUC5, SUC1a",
+    "H_barr": "BAR7, BAR2a, BAR2b",
+    "impact_participation": "IMP1",
+    "conflict": "CON0",
+    "adverse_effects": "NR",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Hardoy 2022",
+    "passages": "H_succ: Enabling factors included the timing and framing of climate-resilience/NbS as part of neighbourhood improvement; weekly participatory discussion tables allocating time to environmental issues; funding for concrete implementation; community implementation generating employment and capacity; strong pre-existing relationships and procedures; and visibility. The authors summarise these as \"enabling factors that have contributed to initiate mind set changes\" (p. 19).\n\nH_barr: Barriers included the pandemic limiting face-to-face exchange in 2021; the previous tendency to treat green/environmental issues as secondary to urgent housing and infrastructure needs; limited tools and time in government teams; and future risks around maintenance and scaling. The authors note \"many practical challenges ahead, in particular, the long-term maintenance of the interventions, and scaling up\" (p. 20).\n\nimpact_participation: Participation is reported to have generated early mindset shifts, new actor coalitions, and changes in planning discussions. The authors state that they observed \"actors incorporating new concepts and ideas\" (p. 13), that Urban Labs \"opened a participatory space where new actors are getting involved\" (p. 19), and that participants began to link housing, infrastructure and services with NbS and climate adaptation/mitigation (p. 19).\n\nconflict: not reported\n\nadverse_effects: not reported",
+    "H_succ": "SUC1a, SUC1b, SUC7, SUC4",
+    "H_barr": "BAR7, BAR1, BAR2b",
+    "impact_participation": "IMP4, IMP1",
+    "conflict": "NR",
+    "adverse_effects": "NR",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Zong 2024",
+    "passages": "H_succ: Key enabling conditions were sufficient greenery, public buildings adjacent to or inside parks, community directors/local responsible persons, and open space. The study states that \"five main characteristics most commonly mentioned by participants were: (1) sufficient greenery, (2) adjacent to or within a community public building, (3) with community directors, (4) plenty of open space, and (5) warehouse and electrical equipment\" (p. 6).\n\nH_barr: Barriers included lack of funds, lack of staff, difficulty discovering new partners, low resident willingness to participate, insufficient publicity, restrictions on ordinary park use, increased garbage, and noise. The resident survey found \"Activities are not well publicized\" was cited by 60%, \"Parks cannot be used as usual\" by 20%, \"Garbage increases with activities\" by 14.5%, and \"Noise increases with activities\" by 12.7% (p. 10).\n\nimpact_participation: Participation was reported to build local trust and social ties: \"If regular activities are held in the small parks, the connection between neighbors can be built\" (P3) and \"The revitalization of the park has increased the relationship among community members\" (P4) (p. 8). Resident event participants rated \"increased use by parents and children\" and \"motivation to go to the park\" highly, with means of 4.36 and 4.37 respectively (p. 9).\n\nconflict: no\n\nadverse_effects: Reported adverse or problematic effects included restrictions on normal park use, increased waste, and noise: \"Parks cannot be used as usual\" was mentioned by 20%, \"Garbage increases with activities\" by 14.5%, and \"Noise increases with activities\" by 12.7% (p. 10).",
+    "H_succ": "SUC7, SUC4",
+    "H_barr": "BAR2a, BAR2b, BAR4, BAR5",
+    "impact_participation": "IMP1",
+    "conflict": "CON0",
+    "adverse_effects": "ADV2",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "García de Jalón 2020",
+    "passages": "H_succ: Success factors included combining CBA with participatory evaluation and engaging several groups: \"the evaluation was not only based on the perspective of the researchers... but also on the perspective of stakeholders, experts, visitors and the general public\" (p. 15). The authors also state that involvement of local implementation agents in \"all key methodological steps\" was \"a key aspect\" (p. 15).\n\nH_barr: No participation-specific barriers were reported. The authors note broader evaluation challenges, including \"the complexity associated with estimating some intangible benefits such as equity or societal cohesion\" (p. 4) and negative impacts that could not be monetised, such as conflicts, dogs, and teen drinking (pp. 11, 15).\n\nimpact_participation: The authors report that participation improved the evaluation and implementation acceptability: \"The participatory evaluation improves the robustness and quality of the economic evaluation and increases social acceptability of implementation\" (p. 15). It also identified impacts researchers had not anticipated: \"some potential negative impacts such as teenagers gathering for drinking alcoholic drinks or greater influx of dogs were not identified by the researchers\" but were included because of stakeholder participation (p. 15).\n\nconflict: no\n\nadverse_effects: Perceived adverse effects included \"an increase in noise, dirt, and risk of criminal activities as well as potential conflicts between green space users\" (p. 1). Other negative impacts identified included \"greater influx of dogs\" and \"greater possibility of teens drinking\" (p. 11).",
+    "H_succ": "SUC3",
+    "H_barr": "BAR0",
+    "impact_participation": "IMP3",
+    "conflict": "CON0",
+    "adverse_effects": "ADV2",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Brom 2023",
+    "passages": "H_succ: Enabling factors included targeted involvement of relevant public and private green-infrastructure experts, consensus-based weighting, visual benefit maps, and co-development with end users. The authors describe the tool as based on \"a collaborative approach involving public and private stakeholders from conception to validation\" (p. 11).\n\nH_barr: Participants found the benefits difficult to rank separately because of \"the interconnectedness of benefits\" (p. 9). The article also notes broader planning barriers in Global South contexts, including \"institutional inertia, weak spatial management, a lack of integrated city-level decision-making, municipal leadership, and technical capabilities\" (p. 2).\n\nimpact_participation: Participation affected the tool content and learning process: stakeholders deliberated and set the benefit weights used to assemble the map, and the authors state that the workshops showed the tool's value for \"communicating green infrastructure benefits\" and \"aligning objectives for green space across siloed departments\" (p. 12). The authors also conclude that \"co-learning practices\" helped create understanding of competing priorities and that \"involvement of users will improve the likelihood that research outputs are immediately adopted and integrated into policy\" (p. 15).\n\nconflict: yes: Workshop participants and professional stakeholders contested how to prioritize green-infrastructure benefits. One group used a social-impact lens and prioritized access, while another used a needs-based ecological lens; later, members of one merged group argued from \"opposite perspectives\" about whether access should receive the smallest or greatest weighting (p. 9).\n\nadverse_effects: not reported",
+    "H_succ": "SUC3",
+    "H_barr": "BAR1",
+    "impact_participation": "IMP3, IMP4",
+    "conflict": "CON4",
+    "adverse_effects": "NR",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Martinez-Juarez 2019",
+    "passages": "H_succ: The authors identify value in intersectoral exchange and feedback: \"fluid and bidirectional communication is essential, where researchers not only communicate their results to policymakers, but where those policymakers also inform about their capacity to implement policies based on those results\" (p. 2). They also state that \"Integration between both local and scientific knowledge is a vital need of deliberation processes based on stakeholder contribution\" (p. 2).\n\nH_barr: The authors caution that \"Participatory workshops are an important tool in the design of climate change adaptation policies, though they cannot, by themselves provide all information needed for the design of effective and efficient adaptive measures\" (p. 12).\n\nimpact_participation: The participatory process generated a catalogue and prioritisation of adaptation options: \"Table 1 summarizes the 26 measures extracted from the presentations made by participants\" (p. 6). The authors also state that the intention was \"to enumerate the views of different experts\" and \"to provide communication links among academia, private entities and policymakers,\" but \"a follow-up of these links is outside the scope of this study\" (p. 12).\n\nconflict: no\n\nadverse_effects: not reported",
+    "H_succ": "SUC2",
+    "H_barr": "BAR0",
+    "impact_participation": "IMP3, IMP5",
+    "conflict": "CON0",
+    "adverse_effects": "NR",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Wijesinghe 2021",
+    "passages": "H_succ: Authors identify \"collaborative governance platforms and clearly delineated mandates\" as necessary (p. 19). Additional enabling factors include \"community participation and stewardship\" (p. 17), \"awareness and capacity development programmes, as well as environmental education\" (p. 17), CoW political leadership with NGOs/private sector/universities, and pandemic-era free water enabling gardens: \"A key enabler was the free provisioning of water for informal settlements by the CoW\" (p. 12).\n\nH_barr: Barriers included \"Information asymmetry, lack of community consultation, and absence of collaborative governance\" (p. 17), lack of explicit UGI policies, ambiguous stormwater/water regulations, contested tenure, funding constraints, \"pro-grey mindset\" and environmental management being framed as \"luxury\" not \"necessity\" (p. 2), information bottlenecks in CDCs, vandalism/theft, and ecosystem disservices such as crime concealment and disease risks.\n\nimpact_participation: Participation was reported as important for uptake and stewardship: \"Community participation and stewardship are essential for UGI schemes in Windhoek’s informal settlements to succeed\" (p. 17). The SDFN/Farm Okukuna partnership trained residents and \"established over 600 garden plots near informal residents’ homes\" (p. 12), with one resident reporting spinach sales of \"more than 300 NAD\" (p. 14).\n\nconflict: yes: The article reports conflict between NUST/Fruitful Landscape actors and the City of Windhoek around water diversion and zoning rules; the initiative was discontinued partly because of \"ambiguous water diversion restrictions and inflexible zoning regulations\" (p. 10). It also reports tensions between informal settlement residents and municipal structures because residents expect public services and green-space action, while CoW divisions lack clear mandates in \"undesignated areas,\" creating frustration over unmet needs (pp. 11, 14).\n\nadverse_effects: Reported adverse effects/disservices include riverbed vegetation concealing criminal activity, drowning risks during rainy-season crossings, malodorous and polluted riverbeds, open defecation contributing to cholera/hepatitis E risks, mosquitoes, snakes, possible gentrification risk from Goreangab Waterfront development, vandalism/theft of gardens or trees, and eviction vulnerability due to insecure tenure (pp. 3, 9, 11, 13).",
+    "H_succ": "SUC1a, SUC5, SUC7",
+    "H_barr": "BAR1, BAR3, BAR2a",
+    "impact_participation": "IMP2, IMP1",
+    "conflict": "CON1",
+    "adverse_effects": "ADV2, ADV1",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Könst 2018",
+    "passages": "H_succ: The three main enabling conditions were \"(1) fully connected cooperation with a ‘fun factor’, (2) strong neighbourhood involvement, and (3) lively places of encounter\" plus \"a flexible and resilient organisation structure\" (p. 575). The authors also identify spatial visibility, shared responsibility, local networks, donations/membership fees and some government support in the development phase as favourable conditions.\n\nH_barr: Barriers included dependence on volunteer time and leadership, difficulty recruiting younger/employed volunteers, uncertainty where land is owned by government, bureaucratic burden, and risks of soft exclusion. For example, \"People want to, but lack the time\" (p. 588), and \"the continuity of civic-led initiatives largely depends on the commitment, drive and recruiting ability of enthusiastic leaders\" (p. 591).\n\nimpact_participation: The authors report that civic-led management provided green public spaces and social contact: \"Green public spaces... are provided on a voluntary basis\" and \"citizens can contribute more actively to their daily living environment and come into contact with like-minded people\" (pp. 589-590). They also report risks: civic-led gardens may \"serve only a subset of the urban population\" and can become \"parochial domains\" (pp. 591-592).\n\nconflict: yes: At Tuin op de Pier, the garden board/initiative faced contestation with the City of Rotterdam, which owned the land and planned to redevelop the pier. The disagreement concerned whether the garden would be preserved within redevelopment plans or relocated, because \"the future of Tuin op de Pier is uncertain\" and board members \"strongly advocate preserving the garden... or arranging a new location\" (p. 586).\n\nadverse_effects: Potential unintended adverse effects were reduced accessibility and soft exclusion: \"local residents are not always familiar with the presence or programming of the gardens, or do not perceive them to be publicly accessible or ‘for them’\" (p. 591). The authors warn that community gardens can act as \"parochial domains\" and that \"Implicit choices for design, language and organisation can unconsciously lead to soft rather than hard exclusion\" (pp. 591-592).",
+    "H_succ": "SUC3, SUC7",
+    "H_barr": "BAR2b, BAR3, BAR1",
+    "impact_participation": "IMP1, IMP5",
+    "conflict": "CON1",
+    "adverse_effects": "ADV4",
+    "emergent_themes": []
+  },
+  {
+    "article_ref": "Critchley 2023",
+    "passages": "H_succ: Reported enabling factors include low barriers to participation, non-expert multidisciplinary involvement, mutual learning, experimentation, open sharing, solidarity practices, and an available derelict/liminal site. The article lists DIY community features as \"low barriers to entry\", \"mutual learning and knowledge exchange\", \"creativity over profit\" and \"open sharing and solidarity practices\" (p. 210).\n\nH_barr: Reported barriers include uncertain land tenure and possible redevelopment/demolition, top-down urbanisation pressures, informal subcultural gatekeeping around \"core skateboarding\", masculine hegemonies, and unequal participation. The article notes the skatepark's \"uncertain future\" depends on leaseholders, landowners and local council (p. 210), and that notions of \"being core\" may be \"exclusionary\" and reinforce \"masculine hegemony\" (pp. 211, 216).\n\nimpact_participation: Participation is reported to have produced shared DIY skills, widened use beyond skateboarding, and created governance tensions. The article states that low barriers, multiple disciplines and experimentation created \"an environment of vernacular knowledge-making\" (p. 214), while also concluding that DIY practices \"widened participation\" but exposed \"contradictions of governance and inclusivity\" (p. 217).\n\nconflict: yes: Conflict is reported between The Grove users/supporters and landowners/development processes, especially when The Dulwich Estate stated the skatepark would be demolished, prompting a \"Save The Grove Campaign\" (p. 211). The article also reports internal/community tensions around harassment, destructive behaviour in the garden, and exclusionary \"core skateboarding\" norms that can reinforce masculine hierarchy (pp. 216-217).\n\nadverse_effects: Potential adverse effects reported include exclusion through \"core skateboarding\" gatekeeping and reinforcement of masculine hegemony. The article states that agency can be centred on authenticity, ability and \"being core\", \"which is found to reinforce masculine hegemony\" (p. 216).",
+    "H_succ": "SUC3",
+    "H_barr": "BAR3, BAR6",
+    "impact_participation": "IMP6, IMP5",
+    "conflict": "CON1, CON2",
+    "adverse_effects": "ADV4",
+    "emergent_themes": []
+  }
+]

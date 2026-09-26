@@ -343,8 +343,9 @@ def extract_article(article_id: str, few_shot_examples: list = None, raw_text: s
         response = client.chat.completions.create(
             model            = MODEL,
             messages         = messages,
-            reasoning_effort = "medium",
+            reasoning_effort = "high",
             response_format  = EXTRACTION_RESPONSE_FORMAT,
+            store=False,
         )
     except Exception as e:
         err_msg = str(e).lower()

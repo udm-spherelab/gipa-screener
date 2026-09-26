@@ -213,7 +213,6 @@ def analyze_fulltext(full_text: str, examples: list, model: str, client: OpenAI)
 
 def compute_rating(result: dict) -> int:
     """
-    Reproduit exactement la définition du Tableau 6 du mémoire :
     - 3 : les deux critères sont vrais ET contexte urbain OU péri-urbain
     - 2 : au moins un critère est None/incertain, OU les deux critères sont
           vrais mais le contexte est "mixed" ou indéterminé (relecture
@@ -236,6 +235,10 @@ def compute_rating(result: dict) -> int:
     # setting == "mixed", ou None/indéterminé alors que pm et gi sont
     # tranchés : classification incertaine -> relecture manuelle
     return 2
+
+degree = result.get("participation_degree")
+    if degree == "inform":
+    return 1
 
 
 # ── Pipeline principal ───────────────────────────────────────────────────────

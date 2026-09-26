@@ -207,6 +207,7 @@ def analyze_fulltext(full_text: str, examples: list, model: str, client: OpenAI)
         input=messages,
         text_format=Output,
         reasoning={"effort": "high"},
+        store=False,
     )
     return response.output_parsed.model_dump()
 

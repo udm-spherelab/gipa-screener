@@ -79,6 +79,9 @@ def compute_rating(result: dict[str, any]) -> int:
         return 3
     if setting == "rural":
         return 1
+degree = result.get("participation_degree")
+    if degree == "inform":
+    return 1
 
     # setting == "mixed", or None/undetermined despite pm and gi both TRUE
     return 2

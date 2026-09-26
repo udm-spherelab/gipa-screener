@@ -6,11 +6,6 @@ and for each article, classifies its 5 OS3 text passages (H_succ, H_barr,
 impact_participation, conflict, adverse_effects) against the inductive
 codebook defined in prompt_precoding_v1.py.
 
-No RAG, no chunking, no embeddings, no PDF parsing: the input is the
-already-extracted short passages, not the full-text article. See
-prompt_precoding_v1.py's module docstring and MEMOIRE section 2.3
-("Thematic pre-coding") for the rationale.
-
 Usage:
     python3 run_precoding.py
     (edit the paths in the __main__ block, or import run_pipeline()

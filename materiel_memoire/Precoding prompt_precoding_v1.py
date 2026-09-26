@@ -2,23 +2,6 @@
 Thematic pre-coding prompt for the GIPA systematic review — v1.
 Codebook v2 — 34 inductive codes across 5 analytical dimensions.
 
-Unlike the extraction module (prompt_extraction_v3.py), this module does NOT
-use RAG: it operates directly on the 5 short passages already isolated by
-the extraction phase (3) for each variable — H_succ, H_barr,
-impact_participation, conflict (F2d), adverse_effects (F_adv). No chunking,
-no embeddings, no retrieval step is required.
-
-The codebook was built inductively by manual line-by-line reading of a
-35-article development sample (see MEMOIRE section 2.3, "Thematic
-pre-coding"). Coverage saturated at article 16 of that sample for 34 of the
-35 codes ultimately observed: the 16 few-shot examples bundled with this
-module (few_shot_examples_precoding.json) are exactly those 16 articles,
-and jointly cover these 34 codes. The 35th code (ADV0, an explicit
-"no adverse effect reported" statement) only emerged later in the wider
-corpus and is deliberately NOT seeded in CODEBOOK below — it is left for
-the model to (re)discover and propose through the emergent_themes
-mechanism, which doubles as a live check that this mechanism actually
-works before relying on it for genuinely novel themes.
 """
 import json
 from pathlib import Path

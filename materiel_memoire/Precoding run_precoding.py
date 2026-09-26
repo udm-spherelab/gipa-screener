@@ -136,8 +136,9 @@ def precode_article(row: dict, examples: Optional[list] = None) -> dict:
         response = client.chat.completions.create(
             model            = MODEL,
             messages         = messages,  # type: ignore[arg-type]
-            reasoning_effort = "medium",
+            reasoning_effort = "high",
             response_format  = {"type": "json_object"},
+            store=False,
         )
     except Exception as e:
         err_msg = str(e).lower()

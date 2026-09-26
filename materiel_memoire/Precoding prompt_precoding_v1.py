@@ -155,7 +155,7 @@ SYSTEM_PROMPT = _build_system_prompt()
 EXAMPLES_PATH = Path(__file__).parent / "few_shot_examples_precoding.json"
 
 def load_examples(path: Path = EXAMPLES_PATH) -> list[dict]:
-    """Load the bundled few-shot examples (16 articles covering all 35 codes)."""
+    """Load the bundled few-shot examples (16 articles covering all 34 prespecified codes)."""
     with open(path, encoding="utf-8") as f:
         return json.load(f)
 

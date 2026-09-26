@@ -42,6 +42,7 @@ def analyze_abstract(
     messages = generate_messages(abstract, examples)
     response = client.responses.parse(
         model=model, input=messages, text_format=Output, reasoning={"effort": "high"},
+        store=False,
     )
     return response.output_parsed.model_dump()
 
